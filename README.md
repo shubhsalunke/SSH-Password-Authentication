@@ -3,7 +3,7 @@
 ## Step 1: Connect to Your Server
 
 ```bash
-ssh azureuser@YOUR_SERVER_IP
+ssh -i Your-Key-name azureuser@YOUR_SERVER_IP
 ```
 
 ---
